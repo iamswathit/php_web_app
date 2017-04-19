@@ -55,5 +55,42 @@ Code Example
 	}
 //split a string by a string
  ?>
+CSS
 
+<style type="text/css">
+		
+		html { 
+			  background: url(images/background.jpg) no-repeat center center fixed; 
+			  -webkit-background-size: cover;
+			  -moz-background-size: cover;
+			  -o-background-size: cover;
+			  background-size: cover;
+			}
+		
+		body{
+			
+			background:none;
+		}
+		.container {
+			
+			text-align:center;
+			margin-top:100px;
+			width:450px;
+		}
+		input {
+			
+			margin: 20px 0;
+			
+		}
+		
+		#weather {
+			
+			margin-top:15px;
+		}
+	
+	</style>
+	
+	Motivation
+	
+	The motivation for the web app is a brief understanding on the bootstrap User Interface and PHP validations and to know certain keys in arrays,knowledge on removing spaces in the string
 
