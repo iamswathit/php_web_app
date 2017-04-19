@@ -93,3 +93,5 @@ CSS
 Motivation
 	
 	The motivation for the web app is a brief understanding on the bootstrap User Interface and PHP validations and to know certain keys in arrays,knowledge on removing spaces in the string
+License
+Apache
