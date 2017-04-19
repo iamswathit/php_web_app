@@ -3,6 +3,10 @@ Synopsis
 Created Web Page where the user can put in any name of the city and the weather for that city is returned.Used Bootstrap UI and used background image.
 Displays error message if the user inputs wrong city name
 
+Motivation
+	
+	The motivation for the web app is a brief understanding on the bootstrap User Interface and PHP validations and to know certain keys in arrays,knowledge on removing spaces in the string
+
 Code Example
 
 <?php
@@ -90,7 +94,3 @@ CSS
 	
 	</style>
 	
-	Motivation
-	
-	The motivation for the web app is a brief understanding on the bootstrap User Interface and PHP validations and to know certain keys in arrays,knowledge on removing spaces in the string
-
